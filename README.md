@@ -1,7 +1,7 @@
 # minitan
 a restful http service in go
 
-##there are two databases named relationship and users
+## there are two databases named relationship and users
 
 the struct of database relationship
 "mainuser"	"touser"	"liked"	"is_matched"	"no"
@@ -21,5 +21,10 @@ go version go1.15.6 darwin/amd64
 route driver:"github.com/gorilla/mux"
 Goland 2020.3
 
- 
- 
+# pics
+![list all users](https://github.com/YiTongG/minitan/blob/main/1.png)
+![create users](https://github.com/YiTongG/minitan/blob/main/2.png)
+![list all users relationship](https://github.com/YiTongG/minitan/blob/main/3.png)
+![update users relationship](https://github.com/YiTongG/minitan/blob/main/4.png)
+
+
